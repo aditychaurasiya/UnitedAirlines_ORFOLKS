@@ -1,19 +1,6 @@
 ## SKYHACK 2.0
 # United Airlines Call Center Optimization
 
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Problem Statement](#problem-statement)
-3. [Background](#background)
-4. [Data Preprocessing](#data-preprocessing)
-5. [Model Building & Tuning](#model-building--tuning)
-6. [Predictions](#predictions)
-
-7. [Results](#results)
-8. [Conclusion](#conclusion)
-9. [References](#references)
-
----
 
 ## Project Overview
 This project focuses on analyzing United Airlines call center data to optimize key performance metrics like Average Handle Time (AHT) and Average Speed to Answer (AST). The findings will help streamline call center operations, enhancing customer service efficiency.
